@@ -211,9 +211,9 @@ Environment-specific configurations can be set in the following files:
 We welcome contributions from everyone, and we appreciate your help to make this project even better! If you would like to contribute, please follow these guidelines:
 
 ## Contributors
-- Amerga Younes ([GitHub](https://github.com/roaeldhimni))
-- Zineb Taghti ([GitHub](https://github.com/kawtare12/))
-- Lahlou Asmae ([GitHub](https://github.com/Hajarita12))
+- Amerga Younes ([GitHub](https://github.com/Younessamg))
+- Zineb Taghti ([GitHub](https://github.com/zinebtaghti))
+- Lahlou Asmae ([GitHub](https://github.com/lahlouasmae))
 - Boutkhoum Omar 
 
 ## License

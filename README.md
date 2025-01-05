@@ -9,10 +9,36 @@ A modern surveillance management system built with Spring Boot backend and React
 ## Overview
 
 This application provides a comprehensive surveillance management solution with secure user authentication, real-time monitoring capabilities, and an intuitive user interface.
+
 ## Table des Matières
-1. [Software Architecture](#Software Architecture)
-2. [Détails de l'Image](#details-de-limage)
-3. [Conclusion](#conclusion)
+1. [Software Architecture](#software-architecture)
+2. [Technology Stack](#technology-stack)
+   - [Backend](#backend)
+   - [Frontend](#frontend)
+3. [Features](#features)
+4. [Prerequisites](#prerequisites)
+5. [Backend Project Structure](#backend-project-structure)
+   - [Controllers Layer](#controllers-layer)
+   - [Services Layer](#services-layer)
+   - [Repositories Layer](#repositories-layer)
+   - [Entities Layer](#entities-layer)
+6. [Installation](#installation)
+   - [Backend Setup](#backend-setup)
+   - [Dependencies](#dependencies)
+   - [Frontend Setup](#frontend-setup)
+7. [Main API Endpoints](#main-api-endpoints)
+8. [Security Configuration](#security-configuration)
+9. [Project Structure](#project-structure)
+10. [Configuration](#configuration)
+    - [Backend Configuration Options](#backend-configuration-options)
+    - [Frontend Configuration](#frontend-configuration)
+11. [Demonstration Video](#demonstration-video)
+12. [Contributing](#contributing)
+13. [Contributors](#contributors)
+14. [License](#license)
+15. [Support](#support)
+
+[Rest of the document remains unchanged...]
 ## Software Architecture
 <div align="center">
     <img width="682" alt="image" src="https://github.com/user-attachments/assets/e920fc6f-285b-4324-af20-97a61bcea484" />

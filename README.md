@@ -2,13 +2,17 @@
 
 A modern surveillance management system built with Spring Boot backend and React.js frontend.
 
-![WhatsApp Image 2025-01-05 at 15 08 26_ea148dc5](https://github.com/user-attachments/assets/80afe4e5-9e1a-40d7-8c6f-20acff8a689e)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/80afe4e5-9e1a-40d7-8c6f-20acff8a689e" alt="WhatsApp Image 2025-01-05 at 15 08 26_ea148dc5">
+</div>
 
 ## Overview
 
 This application provides a comprehensive surveillance management solution with secure user authentication, real-time monitoring capabilities, and an intuitive user interface.
 ## Software Architecture
-<img width="682" alt="image" src="https://github.com/user-attachments/assets/e920fc6f-285b-4324-af20-97a61bcea484" />
+<div align="center">
+    <img width="682" alt="image" src="https://github.com/user-attachments/assets/e920fc6f-285b-4324-af20-97a61bcea484" />
+</div>
 
 ## Technology Stack
 

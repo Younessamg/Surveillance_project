@@ -39,6 +39,37 @@ This application provides a comprehensive surveillance management solution with 
 - Node.js 18 or higher
 - MySQL 14 or higher
 - Maven 3.8+
+## Backend project structure 
+
+###Controllers Layer
+
+Handles HTTP requests and responses
+Implements REST endpoints
+Manages request validation
+Routes requests to appropriate services
+
+
+###Services Layer
+
+Contains business logic
+Implements transaction management
+Handles data processing and transformations
+Coordinates between different components
+
+
+###Repositories Layer
+
+Manages data persistence
+Implements JPA repositories
+Handles database operations
+Provides data access methods
+
+
+###Entities Layer
+
+Defines JPA entities
+Maps database tables
+Implements relationships between entities
 
 ## Installation
 

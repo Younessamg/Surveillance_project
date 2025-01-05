@@ -96,11 +96,14 @@ mvn spring-boot:run
 
 The backend server will start on `http://localhost:8080`
 ### Dependencies
-1.Spring Data JPA:
-Purpose: Simplifies data access using JPA in Spring Boot.
-2.MySQL Connector/J: Purpose: JDBC driver for connecting to a MySQL database.
-xml
+1. *Spring Data JPA:*
+   - Purpose: Simplifies data access using JPA in Spring Boot.
+2. MySQL Connector/J:
+Purpose: JDBC driver for connecting to a MySQL database.
 
+
+xml
+```sh
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -110,6 +113,8 @@ xml
     <artifactId>mysql-connector-java</artifactId>
     <scope>runtime</scope>
 </dependency>
+
+```
 
 ### Frontend Setup
 
@@ -201,13 +206,15 @@ Environment-specific configurations can be set in the following files:
 - `.env.test`
 ## Demonstration video
 
-## Contributing
+# Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+We welcome contributions from everyone, and we appreciate your help to make this project even better! If you would like to contribute, please follow these guidelines:
+
+## Contributors
+- Amerga Younes ([GitHub](https://github.com/roaeldhimni))
+- Zineb Taghti ([GitHub](https://github.com/kawtare12/))
+- Lahlou Asmae ([GitHub](https://github.com/Hajarita12))
+- Boutkhoum Omar 
 
 ## License
 

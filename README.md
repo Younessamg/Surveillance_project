@@ -1,6 +1,7 @@
 # Surveillance System
 
 A modern surveillance management system built with Spring Boot backend and React.js frontend.
+![WhatsApp Image 2025-01-05 at 15 08 26_2506f408](https://github.com/user-attachments/assets/7bc38e16-9cc6-4070-9c34-ab7a76e604ad)
 
 ## Overview
 

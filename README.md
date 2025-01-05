@@ -35,8 +35,7 @@ This application provides a comprehensive surveillance management solution with 
 11. [Demonstration Video](#demonstration-video)
 12. [Contributing](#contributing)
 13. [Contributors](#contributors)
-14. [License](#license)
-15. [Support](#support)
+
 
 [Rest of the document remains unchanged...]
 ## Software Architecture
@@ -253,11 +252,3 @@ We welcome contributions from everyone, and we appreciate your help to make this
 - Zineb Taghti ([GitHub](https://github.com/zinebtaghti))
 - Lahlou Asmae ([GitHub](https://github.com/lahlouasmae))
 - Boutkhoum Omar 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support and queries, please create an issue in the repository or contact the development team.

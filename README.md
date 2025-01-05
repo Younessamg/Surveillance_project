@@ -77,12 +77,7 @@ cd ../frontend
 npm install
 ```
 
-3. Configure the environment variables in `.env`
-```env
-REACT_APP_API_URL=http://localhost:8080/api
-```
-
-4. Start the development server
+3. Start the development server
 ```bash
 npm start
 ```
@@ -158,6 +153,7 @@ Environment-specific configurations can be set in the following files:
 - `.env.development`
 - `.env.production`
 - `.env.test`
+## Demonstration video
 
 ## Contributing
 

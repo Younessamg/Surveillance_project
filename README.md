@@ -9,12 +9,10 @@ A modern surveillance management system built with Spring Boot backend and React
 ## Overview
 
 This application provides a comprehensive surveillance management solution with secure user authentication, real-time monitoring capabilities, and an intuitive user interface.
-
 ## Table des Matières
 1. [Introduction](#introduction)
 2. [Détails de l'Image](#details-de-limage)
 3. [Conclusion](#conclusion)
-
 ## Software Architecture
 <div align="center">
     <img width="682" alt="image" src="https://github.com/user-attachments/assets/e920fc6f-285b-4324-af20-97a61bcea484" />
@@ -53,35 +51,37 @@ This application provides a comprehensive surveillance management solution with 
 - Node.js 18 or higher
 - MySQL 14 or higher
 - Maven 3.8+
-
-## Backend Project Structure 
+## Backend project structure 
 
 ### Controllers Layer
 
-Handles HTTP requests and responses.
-Implements REST endpoints.
-Manages request validation.
-Routes requests to appropriate services.
+Handles HTTP requests and responses
+Implements REST endpoints
+Manages request validation
+Routes requests to appropriate services
+
 
 ### Services Layer
 
-Contains business logic.
-Implements transaction management.
-Handles data processing and transformations.
-Coordinates between different components.
+Contains business logic
+Implements transaction management
+Handles data processing and transformations
+Coordinates between different components
+
 
 ### Repositories Layer
 
-Manages data persistence.
-Implements JPA repositories.
-Handles database operations.
-Provides data access methods.
+Manages data persistence
+Implements JPA repositories
+Handles database operations
+Provides data access methods
+
 
 ### Entities Layer
 
-Defines JPA entities.
-Maps database tables.
-Implements relationships between entities.
+Defines JPA entities
+Maps database tables
+Implements relationships between entities
 
 ## Installation
 
@@ -107,14 +107,15 @@ mvn spring-boot:run
 ```
 
 The backend server will start on `http://localhost:8080`
-
 ### Dependencies
-1. Spring Data JPA:
+1. *Spring Data JPA:*
    - Purpose: Simplifies data access using JPA in Spring Boot.
 2. MySQL Connector/J:
-   - Purpose: JDBC driver for connecting to a MySQL database.
+Purpose: JDBC driver for connecting to a MySQL database.
 
-```xml
+
+xml
+```sh
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -124,6 +125,7 @@ The backend server will start on `http://localhost:8080`
     <artifactId>mysql-connector-java</artifactId>
     <scope>runtime</scope>
 </dependency>
+
 ```
 
 ### Frontend Setup
@@ -145,6 +147,7 @@ npm start
 
 The frontend application will be available at `http://localhost:3000`
 
+
 ### Main API Endpoints
 
 - `POST /api/auth/login` - Authentication endpoint
@@ -153,6 +156,7 @@ The frontend application will be available at `http://localhost:3000`
 - `POST /api/options` - Create new option
 - `POST /api/modules` - Create new module
 - `GET /api/exams` - Get exams
+
 
 ## Security Configuration
 
@@ -212,12 +216,11 @@ Environment-specific configurations can be set in the following files:
 - `.env.development`
 - `.env.production`
 - `.env.test`
+## Demonstration video
 
-## Demonstration Video
+# Contributing
 
-## Contributing
-
-We welcome contributions from everyone, and we appreciate your help to make this project even better! If you would like to contribute, please follow these guidelines.
+We welcome contributions from everyone, and we appreciate your help to make this project even better! If you would like to contribute, please follow these guidelines:
 
 ## Contributors
 - Amerga Younes ([GitHub](https://github.com/Younessamg))

@@ -2,7 +2,7 @@
 
 A modern surveillance management system built with Spring Boot backend and React.js frontend.
 
-![WhatsApp Image 2025-01-05 at 15 08 26_2506f408](https://github.com/user-attachments/assets/7bc38e16-9cc6-4070-9c34-ab7a76e604ad)
+![WhatsApp Image 2025-01-05 at 15 08 26_ea148dc5](https://github.com/user-attachments/assets/80afe4e5-9e1a-40d7-8c6f-20acff8a689e)
 
 ## Overview
 

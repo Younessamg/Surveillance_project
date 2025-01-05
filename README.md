@@ -243,6 +243,9 @@ Environment-specific configurations can be set in the following files:
 - `.env.test`
 ## Demonstration video
 
+https://github.com/user-attachments/assets/fef8cbae-460a-4cc1-8a25-cd0bdfffeb5a
+
+
 # Contributing
 
 We welcome contributions from everyone, and we appreciate your help to make this project even better! If you would like to contribute, please follow these guidelines:

@@ -41,7 +41,7 @@ This application provides a comprehensive surveillance management solution with 
 - Maven 3.8+
 ## Backend project structure 
 
-###Controllers Layer
+### Controllers Layer
 
 Handles HTTP requests and responses
 Implements REST endpoints
@@ -49,7 +49,7 @@ Manages request validation
 Routes requests to appropriate services
 
 
-###Services Layer
+### Services Layer
 
 Contains business logic
 Implements transaction management
@@ -57,7 +57,7 @@ Handles data processing and transformations
 Coordinates between different components
 
 
-###Repositories Layer
+### Repositories Layer
 
 Manages data persistence
 Implements JPA repositories
@@ -65,7 +65,7 @@ Handles database operations
 Provides data access methods
 
 
-###Entities Layer
+### Entities Layer
 
 Defines JPA entities
 Maps database tables
@@ -95,6 +95,21 @@ mvn spring-boot:run
 ```
 
 The backend server will start on `http://localhost:8080`
+### Dependencies
+1.Spring Data JPA:
+Purpose: Simplifies data access using JPA in Spring Boot.
+2.MySQL Connector/J: Purpose: JDBC driver for connecting to a MySQL database.
+xml
+
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-data-jpa</artifactId>
+</dependency>
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <scope>runtime</scope>
+</dependency>
 
 ### Frontend Setup
 
